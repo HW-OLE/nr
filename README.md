@@ -1,2 +1,2 @@
-#NR - Notenrechner
-This is just a Project for all those lazy students that want wo know how they are doing at school
+# NR - Notenrechner
+Just a little tiny calculator helping lazy students to calculate their marks
